@@ -5,8 +5,8 @@ Turn your command line history into a Spotify Wrapped-style experience! See your
 ## Quick Install 🚀
 
 ```bash
-wget -q https://jothamcloud.github.io/cli-wrapped-repo/pool/main/cli-wrapped-package.deb -O /tmp/cli-wrapped.deb && \
-sudo dpkg -i /tmp/cli-wrapped.deb && \
+wget -q https://jothamcloud.github.io/cli-wrapped-repo/pool/main/cli-wrapped-package.deb -O /tmp/cli-wrapped.deb
+sudo dpkg -i /tmp/cli-wrapped.deb
 rm /tmp/cli-wrapped.deb
 ```
 
