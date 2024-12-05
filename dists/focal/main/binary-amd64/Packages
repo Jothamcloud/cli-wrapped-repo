@@ -3,7 +3,7 @@ Version: 1.0.0
 Architecture: all
 Maintainer: Jotham Arinze <arinzejotham60@gmail.com>
 Depends: python3
-Filename: cli-wrapped-repo/pool/main/cli-wrapped-package.deb
+Filename: pool/main/cli-wrapped-package.deb
 Size: 2310
 MD5sum: fcbff45454e9bdc79641bf1bea224002
 SHA1: d9e6ba281b38fbb53c6573e5a70369e8b916b822
