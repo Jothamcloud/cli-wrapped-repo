@@ -1,0 +1,9 @@
+Origin: CLI Wrapped Repository
+Label: CLI Wrapped
+Suite: stable
+Version: 1.0
+Codename: focal
+Date: Thu, 05 Dec 2024 20:38:17 +0100
+Architectures: all
+Components: main
+Description: Repository for CLI Wrapped
