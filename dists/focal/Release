@@ -3,14 +3,14 @@ Label: CLI Wrapped
 Suite: stable
 Version: 1.0
 Codename: focal
-Date: Thu, 05 Dec 2024 21:07:11 +0100
+Date: Thu, 05 Dec 2024 21:11:32 +0100
 Architectures: amd64 i386 all
 Components: main
 Description: Repository for CLI Wrapped
 SHA256:
- e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855 0 main/binary-all/Packages
- c6b4b010749aaae4f130ccfafbae366b07c360eef0d5a58136bf0462a3b57e54 29 main/binary-all/Packages.gz
- e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855 0 main/binary-amd64/Packages
- 32cb48321c7c74ef836637c85ef87c77c3a06a419855caae5b3c4e948778e3cc 29 main/binary-amd64/Packages.gz
- e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855 0 main/binary-i386/Packages
- 7441caa2dcfdce073c31b9c9b00a0d5e74effdf7c9b826cc2532e1004b598c9b 29 main/binary-i386/Packages.gz
+ 2878f8dcf54879e6bd1f1c8730ac3cfe50dba56bbf3884d261d94498ee9b504c 495 main/binary-all/Packages
+ 4c86f7d1833035b2607d6df9e6bc628ec5c34175894fd8b7db331b651dfd44d6 379 main/binary-all/Packages.gz
+ 2878f8dcf54879e6bd1f1c8730ac3cfe50dba56bbf3884d261d94498ee9b504c 495 main/binary-amd64/Packages
+ 4c86f7d1833035b2607d6df9e6bc628ec5c34175894fd8b7db331b651dfd44d6 379 main/binary-amd64/Packages.gz
+ 2878f8dcf54879e6bd1f1c8730ac3cfe50dba56bbf3884d261d94498ee9b504c 495 main/binary-i386/Packages
+ 4c86f7d1833035b2607d6df9e6bc628ec5c34175894fd8b7db331b651dfd44d6 379 main/binary-i386/Packages.gz
