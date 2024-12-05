@@ -3,7 +3,7 @@ Label: CLI Wrapped
 Suite: stable
 Version: 1.0
 Codename: focal
-Date: Thu, 05 Dec 2024 21:11:32 +0100
+Date: Thu, 05 Dec 2024 20:15:18 GMT
 Architectures: amd64 i386 all
 Components: main
 Description: Repository for CLI Wrapped
