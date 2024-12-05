@@ -3,9 +3,10 @@
 Turn your command line history into a Spotify Wrapped-style experience! See your terminal usage stats, developer personality, and fun facts about your command line habits.
 
 ## Quick Install 🚀
-
+Run
 ```bash
-wget -q https://jothamcloud.github.io/cli-wrapped-repo/pool/main/cli-wrapped-package.deb -O /tmp/cli-wrapped.deb && sudo dpkg -i /tmp/cli-wrapped.deb && rm /tmp/cli-wrapped.deb```
+wget -q https://jothamcloud.github.io/cli-wrapped-repo/pool/main/cli-wrapped-package.deb -O /tmp/cli-wrapped.deb && sudo dpkg -i /tmp/cli-wrapped.deb && rm /tmp/cli-wrapped.deb
+```
 
 ## Usage 💻
 
